@@ -1,0 +1,4 @@
+# 忽略打包的文件
+/dist/static/**
+# 忽略eslintignore
+.eslintignore

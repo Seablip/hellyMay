@@ -1,0 +1,5 @@
+/src/lib
+# 忽略打包的文件
+/dist/static
+# 忽略prettierignore文件
+.prettierignore
